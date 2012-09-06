@@ -5,4 +5,8 @@ This is the first local file i've created in my git repository.
 
 Gonna add / commit this badboy and see what happens.
 
+=================
+
+Here's a new line adding to test the updating stuff thing.
+
 -- rube out.
