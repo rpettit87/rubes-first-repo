@@ -1,0 +1,8 @@
+Yo what's up party people. 
+Rube is in da house.
+
+This is the first local file i've created in my git repository.
+
+Gonna add / commit this badboy and see what happens.
+
+-- rube out.
