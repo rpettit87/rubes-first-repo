@@ -14,3 +14,9 @@ Here's a new line adding to test the updating stuff thing.
 here's a new line i added from my home repo!
 
 -- rube out.
+
+=================
+
+here's a test from rcpettit87 on rubes-first-repo on the main branch
+
+-- rp out-dizzle
