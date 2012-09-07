@@ -10,3 +10,8 @@ Gonna add / commit this badboy and see what happens.
 Here's a new line adding to test the updating stuff thing.
 
 -- rube out.
+
+===================
+This is a new line that we're adding to see how this stuff works.  Not really sure I understand it right now.
+
+-- rp out-dizzle
